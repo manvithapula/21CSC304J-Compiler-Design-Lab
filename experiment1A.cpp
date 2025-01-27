@@ -4,12 +4,6 @@
 #include <cctype>
 #include <cmath>
 using namespace std;
-#include <iostream>
-#include <stack>
-#include <string>
-#include <cctype>
-#include <cmath>
-using namespace std;
 
 // Function to return the precedence of an operator
 int precedence(char op) {
